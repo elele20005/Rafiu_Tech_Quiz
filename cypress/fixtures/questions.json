@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "question": "question 1",
+    "answers": [
+            {
+                "text": "correct answer",
+                "isCorrect": true
+            },
+            {
+                "text": "wrong answer",
+                "isCorrect": false
+            },
+            {
+                "text": "wrong answer",
+                "isCorrect": false
+            },
+            {
+                "text": "wrong answer",
+                "isCorrect": false
+            }
+        ]
+    },
+  {
+    "id": 2,
+    "question": "question 2",
+    "answers": [
+            {
+                "text": "correct answer",
+                "isCorrect": true
+            },
+            {
+                "text": "wrong answer",
+                "isCorrect": false
+            },
+            {
+                "text": "wrong answer",
+                "isCorrect": false
+            },
+            {
+                "text": "wrong answer",
+                "isCorrect": false
+            }
+        ]
+    }
+]

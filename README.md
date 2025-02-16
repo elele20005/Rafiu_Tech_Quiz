@@ -48,7 +48,15 @@ Create a `component test for the quiz component.`
 Create an `end-to-test` for the `quiz component.`
  
 ## Usage
-While server is running, utilize Insomnia, MongoDBCompass or similar program which can simulate API calls. Use the appropriate routes listed in the routes code.
+To use the Tech Quiz locally you will run:
+
+`npm run build`
+
+`npm run start:dev` Doing this will allow you to open this locally.
+
+Running the command `npm run test` will run the `cypress test` in the terminal.
+
+Running the command `npm run cypress` will open `cypress` and you're able to run the test there.
 
 ## Credits
 Initial StarterCode was provided by the edX. My task is to use the starter codebase of a fully functioning Tech Quiz application and enhance it by adding Cypress for both component and end-to-end tests. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. It allows users to take a quiz of ten random questions and view their final score. The Converting codes were written by me with assistance from various AI chatbots, including Claude, ChatGPT, and GitHub Copilot. I also watched a lot of Youtube tutorials when troubleshooting issues. Additionally, several YouTube tutorials were referenced to better understand API structure as well. 

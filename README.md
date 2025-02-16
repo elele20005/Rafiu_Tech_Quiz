@@ -9,7 +9,7 @@ I WANT to take a tech quiz
 SO THAT I can test my knowledge and improve my skills
 
 ## Description: NoSQL
-This week, you'll take the starter codebase of a fully functioning Tech Quiz application and enhance it by adding Cypress for both component and end-to-end tests. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. It allows users to take a quiz of ten random questions and view their final score.
+This week task is to take the starter codebase of a fully functioning Tech Quiz application and enhance it by adding Cypress for both component and end-to-end tests. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. This Tech Quiz allows users to answer a series of questions and provides a final score based on the number of correct answers. The project also includes a Cypress folder containing automated test scripts that verify the game's functionality, which can be executed using Cypress or directly from the terminal.
 
 To complete the assignment, you'll need to do the following:
 
@@ -45,7 +45,15 @@ The README includes sections for Description, Installation, Usage,Credits, Licen
 -Questions
 
 ## Installation
-Ensure Node.js is installed. Download or clone the repo. Use `npm i` to install the dependencies needed for the project. Use `npm run build` to build the app. Use `npm start` or `npm run dev` to run the server.
+To complete the assignment, you'll need to do the following:
+
+Install `Cypress as a dev dependency.`
+
+Configure `Cypress for both component and end-to-end testing`
+
+Create a component test for the quiz component.
+
+Create an end-to-test for the quiz component.
  
 ## Usage
 While server is running, utilize Insomnia, MongoDBCompass or similar program which can simulate API calls. Use the appropriate routes listed in the routes code.

@@ -11,15 +11,6 @@ SO THAT I can test my knowledge and improve my skills
 ## Description: MERN stack, React, MongoDB, and Node.js/Express.js server and API
 This week task is to take the starter codebase of a fully functioning Tech Quiz application and enhance it by adding Cypress for both component and end-to-end tests. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. This Tech Quiz allows users to answer a series of questions and provides a final score based on the number of correct answers. The project also includes a Cypress folder containing automated test scripts that verify the game's functionality, which can be executed using Cypress or directly from the terminal.
 
-To complete the assignment, you'll need to do the following:
-
-Install Cypress as a dev dependency.
-
-Configure Cypress for both component and end-to-end testing.
-
-Create a component test for the quiz component.
-
-Create an end-to-test for the quiz component..
 
 
                                  `The Screenshot Is Shown Below`

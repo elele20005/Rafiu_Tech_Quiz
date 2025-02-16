@@ -14,6 +14,9 @@ This week task is to take the starter codebase of a fully functioning Tech Quiz 
 
 
                                  `The Screenshot Is Shown Below`
+                                 
+![Tech_Quiz1](https://github.com/user-attachments/assets/92925ace-c639-4f7b-9a0f-057bdaed5496)
+
 ![Tech_Quiz](https://github.com/user-attachments/assets/951fd5d7-90f1-4338-9d30-7cd9e18637b6)
 
 

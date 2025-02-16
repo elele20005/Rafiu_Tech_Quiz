@@ -70,7 +70,7 @@ This project is licensed under the MIT license and Apache 2.0. See the LICENSE f
 No contributions needed at this time - but feel free to download, fork, use, and play with the codes as desired.
 
 ## Tests
-See above; Usage instructions.
+To test the code, initiate the server by executing the command `pm run server:dev`. Subsequently, open a separate terminal and run the command `pm run test`. This action will execute the component test `Quiz.cy.tsx` as well as the end-to-end test `quiz.cy.ts`. With the server still operational, you may run `npm run cypress`, provided that it is installed. This will launch Cypress, from which you can conduct both the Component and end-to-end tests.
 
 ## Demo Link: 
 [https://drive.google.com/file/d/1gTLmU_vp0JPTFsGBl4hoz1pqYIeKXDf7/view ](https://drive.google.com/file/d/1oeolqKGLFve3WOQd89syCsYKdFXQIlf4/view?usp=sharing)

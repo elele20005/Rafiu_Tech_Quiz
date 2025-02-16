@@ -22,7 +22,7 @@ Create a component test for the quiz component.
 Create an end-to-test for the quiz component..
 
 
-                              `The Snippet Is Shown Below`
+                                 `The Screenshot Is Shown Below`
 ![Tech_Quiz](https://github.com/user-attachments/assets/951fd5d7-90f1-4338-9d30-7cd9e18637b6)
 
 

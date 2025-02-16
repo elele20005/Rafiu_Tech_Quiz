@@ -23,7 +23,8 @@ Create an end-to-test for the quiz component..
 
 
                               `The Snippet Is Shown Below`
-![Rafiu_LinkDemo](https://github.com/user-attachments/assets/ae421439-2e8c-4391-b1e8-2dc64f2808ad)
+![Tech_Quiz](https://github.com/user-attachments/assets/951fd5d7-90f1-4338-9d30-7cd9e18637b6)
+
 
 
 

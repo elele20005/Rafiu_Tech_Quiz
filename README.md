@@ -41,11 +41,11 @@ To complete the assignment, you'll need to do the following:
 
 Install `Cypress as a dev dependency.`
 
-Configure `Cypress for both component and end-to-end testing`
+Configure `Cypress for both component` `and` `end-to-end testing`
 
-Create a component test for the quiz component.
+Create a `component test for the quiz component.`
 
-Create an end-to-test for the quiz component.
+Create an `end-to-test` for the `quiz component.`
  
 ## Usage
 While server is running, utilize Insomnia, MongoDBCompass or similar program which can simulate API calls. Use the appropriate routes listed in the routes code.

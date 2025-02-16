@@ -4,12 +4,22 @@
 
 ## User Story
 
-AS A social media startup
-I WANT an API for my social network that uses a NoSQL database
-SO THAT my website can handle large amounts of unstructured data
+AS AN aspiring developer
+I WANT to take a tech quiz
+SO THAT I can test my knowledge and improve my skills
 
 ## Description: NoSQL
-Rafiu_Link is a social network API that allows users to share their thoughts, add other users as friends, and react to friends' thoughts.
+This week, you'll take the starter codebase of a fully functioning Tech Quiz application and enhance it by adding Cypress for both component and end-to-end tests. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. It allows users to take a quiz of ten random questions and view their final score.
+
+To complete the assignment, you'll need to do the following:
+
+Install Cypress as a dev dependency.
+
+Configure Cypress for both component and end-to-end testing.
+
+Create a component test for the quiz component.
+
+Create an end-to-test for the quiz component..
 
 
                               `The Snippet Is Shown Below`
